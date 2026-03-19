@@ -23,8 +23,8 @@ export default function Login() {
       const user = userCredential.user;
 
       let role = "";
-      if (user.uid === "SsWyDONxP6UKmA0UAZ16oZKER602") role = "admin";
-      else if (user.uid === "TcLIgkYKZBfLIYdZLlJAzuqJqBk1") role = "cliente";
+      if (user.uid === "rKSKJ4kDqVgEtlk2FIp6FBRme1z2") role = "admin";
+      else if (user.uid === "o15wlunQZAP2d2xgueZVFFmAfM82") role = "cliente";
 
       if (!role) {
         setError("Usuario no autorizado");

@@ -4,7 +4,7 @@ import "./globals.css"
 import {Header} from "@/components/Header";
 
 export const metadata = {
-  title: "Amaro Carranza",
+  title: "Segundo Amaro Carranza Contreras",
   description: "Perfil 2",
 };
 

@@ -8,7 +8,7 @@ export const ProfileHeader = () => {
   const pathname = usePathname();
 
   const profileData = {
-    name: "Amaro Carranza",
+    name: "Segundo Amaro Carranza Contreras",
     views: "Recordado con cariño por familiares y amigos",
     coverImg: "/profiles/amaro-carranza/portada2.jpeg",
     avatarImg: "/profiles/amaro-carranza/perfil2.jpeg",

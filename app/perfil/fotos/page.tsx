@@ -27,7 +27,7 @@ type TimelineItem = {
 };
 
 const PROFILE_ID = "public";
-const AUTHOR_NAME = "Amaro Carranza";
+const AUTHOR_NAME = "Segundo Amaro Carranza Contreras";
 
 /* ---------- COMPONENTE POST FOTO ---------- */
 
